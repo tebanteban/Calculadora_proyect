@@ -6,4 +6,4 @@ const auto =  {
 }
 
  console.log(auto); 
- const 
+ 
